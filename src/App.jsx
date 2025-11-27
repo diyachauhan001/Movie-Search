@@ -5,7 +5,7 @@ import MovieCard from './components/MovieCard';
 import Loader from './components/Loader';
 import './App.css';
 
-const API_KEY = 'your_api_key_here'; // Replace with your actual key
+const API_KEY = '61bf7f482f0d5f9d9a0059205d80a182'; // Replace with your actual key
 const API_URL = `http://www.omdbapi.com/?apikey=${API_KEY}&s=`;
 
 function App() {
